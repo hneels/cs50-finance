@@ -4,7 +4,7 @@ Project for Week 8 of Harvard's CS50
 
 [View the full assignment description on CS50's OpenCourseWare](https://cs50.harvard.edu/x/2020/tracks/web/finance/)
 
-<img src="screenshot.png" alt="screenshot of finance project" width="500px">
+<img src="screenshot.png" alt="screenshot of finance project" width="600px">
 
 ## Technologies
 * Python
